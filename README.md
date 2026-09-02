@@ -131,4 +131,6 @@ const byTerm = new Map(data.terms.map((t) => [t.term, t]));
 
 ## License and provenance
 
-Derived from the SECAI glossary (`public/SECAI_glossary_ordered.json`). Explanation cards are pre-rendered for the SecAI Vocab shortcut. Check with the repository owner before redistributing.
+Released under the [MIT License](LICENSE). Use it, fork it, embed it, ship it commercially. Keep the copyright notice along for the ride and you are square.
+
+Derived from the SECAI glossary (`public/SECAI_glossary_ordered.json`). Explanation cards are pre-rendered for the SecAI Vocab shortcut.
